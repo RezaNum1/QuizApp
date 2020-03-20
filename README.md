@@ -1,6 +1,6 @@
-# flutter_complete_guide
+# QuizApp
 
-A new Flutter project.
+Customize your question and answere with QUIZ APP. It compatible with Android and iOS
 
 ## Getting Started
 
