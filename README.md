@@ -1,6 +1,6 @@
 # QuizApp
 
-Customize your question and answere with QUIZ APP. It compatible with Android and iOS
+Customize your question and answer with QUIZ APP. It compatible with Android and iOS
 
 ## Getting Started
 
